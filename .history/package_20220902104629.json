@@ -30,7 +30,7 @@
   "license": "MIT",
   "dependencies": {
     "easygraphql-mock": "^0.1.17",
-    "easygraphql-parser": "github:bloodyrafo75/easygraphql-parser",
+    "easygraphql-parser": "^0.0.15",
     "graphql-tools": "^4.0.8",
     "lodash.isobject": "^3.0.2"
   },
@@ -45,6 +45,6 @@
     "prettier": "^1.19.1"
   },
   "peerDependencies": {
-    "graphql": "^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0"
+    "graphql": "^0.13.0 || ^14.0.0 || ^15.0.0"
   }
 }
